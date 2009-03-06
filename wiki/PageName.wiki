@@ -3,8 +3,11 @@
 
 = Introduction =
  "Android-Group-Korea" is similar to "Android-Group-Korea".
+
  Our community is website for Korean Developers that study system programming.
+
  Official Name is follows.
+
  * Community Name is "Android-Group-Korea" in english.
  * Community Name is "안드로이드 그룹 코리아" in korean.
 
