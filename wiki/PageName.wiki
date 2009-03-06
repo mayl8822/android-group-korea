@@ -1,0 +1,26 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Introduction =
+ "Android-Group-Korea" is similar to "Android-Group-Korea".
+ Our community is website for Korean Developers that study system programming.
+ Official Name is follows.
+ * Community Name is "Android-Group-Korea" in english.
+ * Community Name is "안드로이드 그룹 코리아" in korean.
+
+= Official Site (Homepage) =
+http://sites.google.com/site/androidgroupkorea/
+
+= Sub Website =
+
+== Groups(Usenet) ==
+ * http://groups.google.com/group/android-group-japan
+ * http://groups.google.com/group/android-group-korea
+
+== Code(SVN) ==
+ * http://code.google.com/p/android-group-korea/
+ * http://code.google.com/p/invain/  (http://invain.googlecode.com)
+
+= Etc =
+== english google websites ==
+ * http://source.android.com/project/core-technical-team
